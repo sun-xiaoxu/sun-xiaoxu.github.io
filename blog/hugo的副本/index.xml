@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>猴子的博客 – New Releases</title>
+    <link>https://sun-xiaoxu.github.io/blog/hugo%E7%9A%84%E5%89%AF%E6%9C%AC/</link>
+    <description>Recent content in New Releases on 猴子的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://sun-xiaoxu.github.io/blog/hugo%E7%9A%84%E5%89%AF%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Blog: Another Great Release</title>
+      <link>https://sun-xiaoxu.github.io/blog/2018/01/04/another-great-release/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sun-xiaoxu.github.io/blog/2018/01/04/another-great-release/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;部署到github-pages&#34;&gt;部署到github pages&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;github中创建仓库,仓库名    xxx.github.io..用于存放本地生成的public目录(网页资源))&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
